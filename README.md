@@ -1,1 +1,2 @@
 # LuxCpan
+v2ray
